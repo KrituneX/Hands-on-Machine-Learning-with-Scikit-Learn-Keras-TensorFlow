@@ -90,8 +90,4 @@ Dibagi menjadi dua bagian besar:
 - Deployment model ke lingkungan produksi dengan TensorFlow Serving.
 - Penyimpanan model (SavedModel), REST API, dan format request.
 
-**Chapter 20 – AutoML**  
-- Pengenalan AutoML dan Google’s AutoKeras.
-- Automatisasi preprocessing, pemilihan model, tuning hyperparameter.
-
 ---
